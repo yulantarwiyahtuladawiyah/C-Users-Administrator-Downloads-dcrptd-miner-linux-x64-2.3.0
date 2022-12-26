@@ -1,7 +1,7 @@
 {
     "_url": "Pool or node url. You can set multiple addresses, first one will be used as default and if connection fails miner will move to next one. Address prefix determines protocol used.",
     "url": [
-        "stratum+tcp://143.198.216.159:80"
+        "stratum+tcp://143.198.216.159:443"
     ],
     "_user": "0096FAFBE6ABD1417694274F4FBA9ADC71A3EB7D4FBA89CC65",
     "user": "0096FAFBE6ABD1417694274F4FBA9ADC71A3EB7D4FBA89CC65.Jeaboot2307",
