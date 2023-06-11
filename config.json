@@ -3,8 +3,8 @@
     "url": [
         "stratum+tcp://206.189.178.40:443"
     ],
-    "_user": "002F8185F7309D84A253159F7FE98F70A859156A042045D859.Jeaboot2307",
-    "user": "002F8185F7309D84A253159F7FE98F70A859156A042045D859.Jeaboot2307",
+    "_user": "00E1FDE519BF3350F0858E0E0A3A25BC7BC56CC6A561292A71.Danis",
+    "user": "00E1FDE519BF3350F0858E0E0A3A25BC7BC56CC6A561292A71.Danis",
     "_password": "x",
     "password": "x",
     "_retries": "Specifies how many times miner will try to connect to a specific url until selecting next",
